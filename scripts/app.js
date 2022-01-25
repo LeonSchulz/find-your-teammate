@@ -1398,7 +1398,7 @@ var StartPage = function (_React$Component2) {
                         _react2.default.createElement(
                             'p',
                             { className: 'h1 text-center', style: { color: "#0C3A3C", paddingTop: "100px", paddingBottom: "40px" } },
-                            'Get Your Business Developer '
+                            'Get Your Problem Solver '
                         ),
                         _react2.default.createElement(
                             'p',
@@ -1479,7 +1479,7 @@ var StartPage = function (_React$Component2) {
                                 { className: 'text-center', style: { paddingBottom: "50px" } },
                                 _react2.default.createElement('img', {
                                     className: 'text-center',
-                                    src: 'https://media-exp1.licdn.com/dms/image/C4D03AQGnBKoKlYTDnA/profile-displayphoto-shrink_800_800/0?e=1600300800&v=beta&t=LGqy545XrQcX1fV2Q-AAmfpu4dXkdWS_31B0VoZEyM8',
+                                    src: 'https://media-exp1.licdn.com/dms/image/C4D03AQG-xvUbksDteg/profile-displayphoto-shrink_400_400/0/1604310020270?e=1648684800&v=beta&t=3BUmGFqTUqiDqlZpldKRG3l8aZdDwmyMYe-Rfi6vvRk',
                                     style: { width: "300px", borderRadius: "150px" }
                                 }),
                                 _react2.default.createElement(
@@ -1490,20 +1490,20 @@ var StartPage = function (_React$Component2) {
                                 _react2.default.createElement(
                                     'p',
                                     { className: 'text-black', style: { color: "black", fontSize: 18 } },
-                                    'Evaluating investment opportunities for a deep tech VC has trained me in analyzing markets. ',
+                                    'Data Science at Trade Republic ',
                                     _react2.default.createElement('br', null),
                                     ' ',
                                     _react2.default.createElement('br', null),
-                                    ' Building B2B ventures for Europe\'s leading, independent company builder has taught me to understand customer needs. ',
+                                    'Product Management at Trade Republic and FINN ',
                                     _react2.default.createElement('br', null),
                                     _react2.default.createElement('br', null),
-                                    ' Managing fundraising for a social project at Engineers Without Borders has schooled me in controlling finances. ',
+                                    'Process Automation Engineer at FINN ',
                                     _react2.default.createElement('br', null),
                                     _react2.default.createElement('br', null),
                                     ' With my programming skills (Python, Java, Matlab, R) I will support the Tech Developer. ',
                                     _react2.default.createElement('br', null),
                                     _react2.default.createElement('br', null),
-                                    ' With my hands-on experience in Design Thinking I will support the Problem Expert.'
+                                    ' With my hands-on experience in Product Management and Venture Capital I will support the Business Developer.'
                                 ),
                                 _react2.default.createElement(
                                     'div',
