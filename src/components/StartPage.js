@@ -136,7 +136,7 @@ class StartPage extends React.Component {
                     {this.state.isMatch === false
                         ?
                             <div>
-                            <p className="h1 text-center" style={{ color: "#0C3A3C", paddingTop: "100px", paddingBottom: "40px" }}>Get Your Business Developer </p>
+                            <p className="h1 text-center" style={{ color: "#0C3A3C", paddingTop: "100px", paddingBottom: "40px" }}>Get Your Problem Solver </p>
                             <p className="h2 text-center" style={{ color: "#335D57", paddingTop: "0px", paddingBottom: "50px" }}>Select qualities of your ideal teammate. </p>
                                 <div className="container">
                                     <SearchBox />
