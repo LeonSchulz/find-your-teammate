@@ -188,11 +188,11 @@ class StartPage extends React.Component {
                                 <div className="text-center" style={{ paddingBottom: "50px"}}>
                                         <img
                                             className="text-center"
-                                            src="https://media-exp1.licdn.com/dms/image/C4D03AQGnBKoKlYTDnA/profile-displayphoto-shrink_800_800/0?e=1600300800&v=beta&t=LGqy545XrQcX1fV2Q-AAmfpu4dXkdWS_31B0VoZEyM8"
+                                            src="https://media-exp1.licdn.com/dms/image/C4D03AQG-xvUbksDteg/profile-displayphoto-shrink_400_400/0/1604310020270?e=1648684800&v=beta&t=3BUmGFqTUqiDqlZpldKRG3l8aZdDwmyMYe-Rfi6vvRk"
                                             style={{width: "300px", borderRadius: "150px"}}
                                         />
                                     <p className="text-black" style={{ fontWeight: "bold", fontSize: 18, paddingTop: "30px", paddingBottom: "10px"}}>EXPERIENCE</p>
-                                    <p className="text-black" style={{ color: "black", fontSize: 18 }}>Evaluating investment opportunities for a deep tech VC has trained me in analyzing markets. <br /> <br /> Building B2B ventures for Europe's leading, independent company builder has taught me to understand customer needs. <br /><br /> Managing fundraising for a social project at Engineers Without Borders has schooled me in controlling finances. <br /><br /> With my programming skills (Python, Java, Matlab, R) I will support the Tech Developer. <br /><br /> With my hands-on experience in Design Thinking I will support the Problem Expert.</p>
+                                    <p className="text-black" style={{ color: "black", fontSize: 18 }}>Data Science at Trade Republic <br /> <br /> Product Management at Trade Republic and FINN <br /><br /> Process Automation Engineer at FINN <br /><br /> With my programming skills (Python, Java, R) I will support the Tech Developer. <br /><br /> With my hands-on experience in Venture Capital and Product Management I will support the Business Developer.</p>
                                         <div className="container border bg-white p-3 mt-5" style={{width: "500px"}}>
                                             <div className="col" style={{maxHeight:"300px", overflowY:"scroll"}}>
                                                 {globalSelectedList.map((item) =>
